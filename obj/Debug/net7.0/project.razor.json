@@ -15191,6 +15191,23 @@
         }
       },
       {
+        "HashCode": 459658577,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__ProductViewComponentTagHelper",
+        "AssemblyName": "FronToBack",
+        "CaseSensitive": false,
+        "TagMatchingRules": [
+          {
+            "TagName": "vc:product"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__ProductViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "Product"
+        }
+      },
+      {
         "HashCode": -97385351,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -18706,6 +18723,11 @@
     {
       "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FronTBviewComponent\\FronToBack\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\User\\Desktop\\backend projects\\FronTBviewComponent\\FronToBack\\Views\\Shared\\Components\\Product\\Default.cshtml",
+      "TargetPath": "Views\\Shared\\Components\\Product\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
